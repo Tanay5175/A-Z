@@ -6,7 +6,5 @@
 
 Screenshots:
 
-![](images/Homepage.png)
-![](images/Cart.png)
-![](images/Payment.png)
-![](images/Orders.png)
+![](images/Homepage.png) ![](images/Cart.png)
+![](images/Payment.png) ![](images/Orders.png)
